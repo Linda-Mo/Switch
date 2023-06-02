@@ -2,7 +2,7 @@
 what is Switch?
 Switch is an instant messaging application that gives people a good access to connect with friends and family. It is a social media Android app that uses Theta Network to allow users to post, share , like, comment, and displays videos,  images etc. It also allows user chat with each other and share media.
 
-## The source and apk are sent to Theta email address given at devpost
+## The source code and APK are sent to Theta email address given at devpost
 
 ## Inspiration
 Theta network and Telegram inspired me to create a social media app that uses Theta video API, Theta Edge store to allow users to view and display media through their phone and allow them to share,post,like,and comment on media from other users. It is an app that allows access to Theta media.
